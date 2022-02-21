@@ -2,7 +2,7 @@
 - 👀 I’m interested in SEGA
 - 🌱 I’m currently learning software upgrading.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
   Discord: @Mega Drive#1529. You find everything you need in linked accs.
 
 <!---
