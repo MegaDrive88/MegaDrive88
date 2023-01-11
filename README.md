@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MegaDrive88
 - 👀 I’m interested in SEGA
 - 🌱 I’m currently learning software upgrading.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <br>
   Just don't... 
 
